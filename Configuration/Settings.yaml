@@ -52,6 +52,6 @@ DigiComp:
       transports:
         discard:
           dsn: "null://"
-
+          
       failureTransport: "discard"
       routing: []
